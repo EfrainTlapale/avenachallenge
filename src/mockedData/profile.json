@@ -1,0 +1,42 @@
+{
+"active": true,
+"picture": "https://storage.googleapis.com/avena-bot.appspot.com/support@avena.io/profile.jpeg",
+"name": "Avena Health Coach",
+"clients": 10,
+"link": "https://avenaapp.app.link/download",
+"alias": "avena.nutriologa",
+"email": "support@avena.io",
+"identification": "00000",
+"specialities": [
+"Control de peso",
+"Generar hábitos saludables",
+"Alimentación consciente"
+],
+"expertise": [
+"Servicio Social en Hospital Civil de Guadalajara . Servicio de Cirugía y Nutrición",
+"Practicas Profesionales en Hospital Puerta de Hierra Sur Guadalajara",
+"Nutrióloga Clínica en Hospital Terranova Guadalajara",
+"Consulta privada"
+],
+"languages": [
+"Español",
+"Inglés"
+],
+"education": [
+"Licenciatura en Nutrición",
+"Educadora en Diabetes AMD ",
+"IIN Health Coach",
+"Instructora de Bikram Yoga",
+"Instructora de Hatha Vinyasa Yoga"
+],
+"price": "$399.00 MXN 7 días gratis",
+"paymentCode": "io.avena.plan.399.trial",
+"paymentMethod": "stripe",
+"title": "Lic. Nutrición | IIN Health Coach | Educadora en Diabetes",
+"instagram": "avenaap",
+"facebook": "https://www.facebook.com/avenaApp",
+"youtube": "https://www.youtube.com",
+"about": "Acerca de mí",
+"subscriptionTerms": "*Servicio de suscripción mensual en línea.\n*Menús y recetas sugeridas según metas y objetivos del suscriptor.\n*La suscripción es gestionada por el usuario y puede desactivarse cuando este lo decida.",
+"subscriptionDescription": "La suscripción mensual incluye:\n*Motivación diaria.\n*Apoyo y acompañamiento.\n*Acceso a comunidad saludable con objetivos en común.\n*Ideas para cocinar.\n*Recetas saludables.\n*Planes nutricionales ajustados a tus metas y objetivos."
+}
